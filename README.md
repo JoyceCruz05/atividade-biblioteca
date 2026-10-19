@@ -1,6 +1,6 @@
 # Sistema de Biblioteca — Java & PostgreSQL
 
-Repositório unificado contendo a resolução da lista de exercícios da formação de Desenvolvedor Full Stack Júnior, integrando **Programação Orientada a Objetos em Java** e **Modelagem/Consultas SQL com PostgreSQL**[cite: 11].
+Repositório unificado contendo a resolução da lista de exercícios da formação de Desenvolvedor Full Stack Júnior, integrando **Programação Orientada a Objetos em Java** e **Modelagem/Consultas SQL com PostgreSQL**.
 
 ---
 
